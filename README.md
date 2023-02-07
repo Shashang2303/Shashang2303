@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashang Patel
-- 👀 I’m interested in Data Analyst field.
+- 👀 I’m interested in ML,AI and Data Analyst field.
 - 🌱 I’m currently an 3rd IT student.
 - 💞️ I’m looking to collaborate on Data science field.
 - 📫 How to reach me @shashangpatel6@gmail.com
