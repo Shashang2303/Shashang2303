@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shashang Patel
 - 👀 I’m interested in ML, AI, Computer Vision and Data Analyst field.
-- 🌱 I’m currently computer vision engineer.
-- 💞️ I’m looking to collaborate on Data science field.
+- 🌱 I’m currently a Machine Learning Engineer.
+- 💞️ I’m looking to collaborate on AI field.
 - 📫 How to reach me @shashangpatel6@gmail.com
 
 <!---
